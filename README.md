@@ -231,10 +231,10 @@ This design means the UI can jump to *any* step and instantly display the correc
 
 Contributions are welcome! Some ideas:
 
-- [ ] **Decode mode** — add an LZW decoder that reverses the process
-- [ ] **Binary output view** — show the bit-level representation of codes
-- [ ] **Compression chart** — visualize compression ratio over time as steps progress
-- [ ] **Custom initial codes** — let users choose starting code values
+- [x] **Decode mode** — add an LZW decoder that reverses the process
+- [x] **Binary output view** — show the bit-level representation of codes
+- [x] **Compression chart** — visualize compression ratio over time as steps progress
+- [x] **Custom initial codes** — let users choose starting code values
 - [ ] **Mobile responsive polish** — optimize the split layout for small screens
 - [ ] **Export** — download the step table as CSV or the dictionary as JSON
 
